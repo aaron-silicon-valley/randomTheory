@@ -1,6 +1,6 @@
 import random
 import sys
-from multiprocessing import Pool
+# from multiprocessing import Pool * next update (don't know how yet lol)
 
 
 def randomizer(num_low, num_high, target_num):
